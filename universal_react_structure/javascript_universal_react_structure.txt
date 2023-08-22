@@ -1,0 +1,71 @@
+my-app/
+  src/
+    assets/
+      images/
+        avatar.jpg - Аватар пользователя.
+        logo.png - Логотип приложения.
+        background.jpg - Фоновое изображение.
+      icons/
+        facebook.svg - Иконка Facebook.
+        twitter.svg - Иконка Twitter.
+        instagram.svg - Иконка Instagram.
+    components/
+      Auth/
+        AuthProvider.js - Контекст аутентификации пользователя.
+        Login.js - Компонент для входа пользователя.
+        Register.js - Компонент для регистрации пользователя.
+        SocialLogin.js - Компонент для входа через социальные сети.
+      UserProfile/
+        UserProfile.js - Основной компонент профиля пользователя.
+        Avatar.js - Компонент для отображения аватара пользователя.
+        Bio.js - Компонент для отображения биографической информации.
+      Settings/
+        Settings.js - Компонент настроек пользователя.
+        Notifications.js - Компонент для управления уведомлениями.
+        InterfaceSettings.js - Компонент настроек интерфейса.
+      Messaging/
+        Messages.js - Основной компонент для просмотра сообщений.
+        Chat.js - Компонент для чата.
+        MessageInput.js - Компонент для ввода сообщений.
+        ConversationList.js - Компонент для списка бесед.
+      AdminPanel/
+        AdminDashboard.js - Основной компонент панели администратора.
+        UserManagement.js - Компонент для управления пользователями.
+        ContentManagement.js - Компонент для управления контентом.
+      Shared/
+        Button.js - Общий компонент кнопки.
+        Input.js - Общий компонент ввода.
+        Dropdown.js - Общий компонент выпадающего списка.
+        ... - Другие общие компоненты.
+    contexts/
+      AuthContext.js - Контекст аутентификации.
+    hooks/
+      useAuth.js - Кастомный хук для работы с аутентификацией.
+      useApi.js - Кастомный хук для работы с API.
+    services/
+      api.js - Сервис для обращения к API.
+      auth.js - Сервис для работы с аутентификацией.
+    styles/
+      GlobalStyles.js - Глобальные стили.
+      componentStyles/
+        AuthStyles.js - Стили для компонентов аутентификации.
+        UserProfileStyles.js - Стили для компонентов профиля пользователя.
+        ... - Стили для других компонентов.
+    utils/
+      helpers.js - Вспомогательные функции.
+      formatDate.js - Функция для форматирования дат.
+      validation.js - Функции для валидации данных.
+    routes/
+      PrivateRoute.js - Приватный маршрут для авторизованных пользователей.
+      PublicRoute.js - Публичный маршрут для всех пользователей.
+    config/
+      config.js - Конфигурационные параметры приложения.
+    tests/
+      Auth.test.js - Тесты для компонентов аутентификации.
+      UserProfile.test.js - Тесты для компонентов профиля пользователя.
+      ... - Тесты для других компонентов.
+    App.js - Основной компонент приложения, определяет маршрутизацию.
+    index.js - Точка входа в приложение.
+  public/
+    index.html - Главный HTML файл.
+  package.json - Описание зависимостей и настроек проекта.
