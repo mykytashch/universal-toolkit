@@ -8,7 +8,7 @@ Enjoy your coding journey, and thank you for taking the time to explore my repos
 
 # TypeScript Universal React Project Structure - universal_react_structure.rar
 
- A meticulously organized foundation for crafting feature-rich web applications using TypeScript. With over 80 files spanning various directories, this structure supports user authentication, profile management, messaging, admin panel controls, UI/UX customization, and more. Leverage TypeScript's type safety, enjoy modularity with reusable components, access scalable services, ensure robustness with testing files, and embrace global styles for customization. Utilize custom hooks for authentication and API interaction. Make use of this structure to jumpstart your web development projects.
+A well-organized base for building feature-packed websites using TypeScript. With 80+ files in different folders, it supports user sign-in, profile management, messaging, admin controls, and more. TypeScript ensures safety, reusable parts simplify work, and global styles customize looks. Use it to start your web projects smoothly.
 
 
 ## Contact
