@@ -6,9 +6,7 @@ Feel free to explore, use, and adapt anything you come across. If you discover s
 
 Enjoy your coding journey, and thank you for taking the time to explore my repository. Be sure to follow for updates on new and exciting tools!
 
-# TypeScript Universal React Project Structure
-
-## universal_react_structure.rar
+# TypeScript Universal React Project Structure ## universal_react_structure.rar
 
 Why Choose This Structure?
 
