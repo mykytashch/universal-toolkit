@@ -7,27 +7,31 @@ Feel free to explore, use, and modify anything you find here. If you find anythi
 Happy coding, and thank you for visiting my repository. Don't forget to follow for updates on new and exciting tools!
 
 
-## Universal React Structure with Python Script
 
-This section is dedicated to a unique project that combines React and Python to create an efficient and universal structure. It's aimed at aiding developers in quickly bootstrapping React projects with predefined comments.
+# TypeScript Universal React Project Structure
 
-### Features
+This repository outlines a basic and scalable project structure for a TypeScript-based React application. It's designed to align with current industry practices as of 2023.
 
-- **React Structure**: A well-designed folder and file structure for React projects.
-- **Python Script**: A Python script to automatically create the structure and insert comments.
-- **Ease of Use**: Simple to execute and modify according to personal or project-specific needs.
+## Structure Overview:
+- **Components**: Organized by functionality, such as Auth, UserProfile, Settings, etc.
+- **Contexts**: For global state management.
+- **Hooks**: Custom reusable logic.
+- **Services**: Handling API and authentication.
+- **Styles**: Global and component-specific styles.
+- **Utils**: General utility functions.
+- **Routes**: Public and private routing.
+- **Tests**: Placeholder for tests.
+- **Config**: Application configuration.
+- **Assets**: Static assets like images and icons.
 
-### Usage
+## File Types:
+- **.ts**: General TypeScript files.
+- **.tsx**: React components in TypeScript.
 
-1. **Clone the repository**: `git clone <repository-url>`
-2. **Navigate to the React structure folder**: `cd path/to/react-structure`
-3. **Run the Python script**: `python create_structure.py`
-4. **Install necessary dependencies**: Follow instructions provided in the corresponding folders.
-5. **Start your development**: Customize the structure as needed and begin coding!
+## Commercial Relevance:
+This skeleton structure serves as a starting point for commercial React projects, promoting organized development, and efficient collaboration. It contains empty files with basic comments, allowing for customization and expansion as needed.
 
-### Contributions
 
-Feel free to contribute to this project by submitting pull requests or opening issues. Your input is highly appreciated!
 
 ## Contact
 
